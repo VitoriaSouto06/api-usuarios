@@ -6,7 +6,7 @@ Projeto de uma API onde conseguimos criar, editar, e listar usuários e seus end
 
 
 # Caminho para criar um usuário com endereço: POST http://localhost:8080/usuarios/salvar
-Payload paa teste: {
+Payload para teste: {
     "nome" : "Usuario teste",
     "dataNascimento" : "2003-03-22",
     "endereco":{
